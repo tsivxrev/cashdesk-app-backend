@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/recover"
-	"github.com/tsivxrev/cashdesk/controllers"
-	"github.com/tsivxrev/cashdesk/routes"
+	"github.com/tsivxrev/cashdesk-app-backend/controllers"
+	"github.com/tsivxrev/cashdesk-app-backend/routes"
 )
 
 func main() {

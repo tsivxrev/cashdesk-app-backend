@@ -7,8 +7,8 @@ import (
 	"github.com/go-playground/validator/v10"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
-	"github.com/tsivxrev/cashdesk/database"
-	"github.com/tsivxrev/cashdesk/models"
+	"github.com/tsivxrev/cashdesk-app-backend/database"
+	"github.com/tsivxrev/cashdesk-app-backend/models"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

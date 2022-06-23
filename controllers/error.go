@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/tsivxrev/cashdesk/models"
+	"github.com/tsivxrev/cashdesk-app-backend/models"
 )
 
 func InternalServerError(c *fiber.Ctx, err error) error {

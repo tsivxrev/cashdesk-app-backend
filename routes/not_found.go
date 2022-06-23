@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/tsivxrev/cashdesk/controllers"
+	"github.com/tsivxrev/cashdesk-app-backend/controllers"
 )
 
 func NotFound(app *fiber.App) {
